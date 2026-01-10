@@ -19,19 +19,24 @@ The silver layer contains cleaned and validated data that is safe for downstream
 The following transformation was applied:
 
 **1. Removed rows where Item was missing**
+
     Rows without item names were dropped because they cannot be reliably grouped, priced or analyzed.
 
 **2. Recalculated Total Spent**
+
     The original total was not trusted. It was recalculated using:
     `Total Spent = Price Per Unit * Quantity`
 
 **3. Filled Missing discounts**
+
     Missing values in *Discount Applied* were replaced with *False* first and the True and False values were converted into 1 and 0 for analytics purpose.
 
 **4. Standardized data Types**
+
      *Transaction Date* was converted into proper datetime format for time-based analysis.
 
 The cleaned dataset is saved as:
+
 
 `data/processed/clean_sales.csv`
 
