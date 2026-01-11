@@ -43,9 +43,9 @@ The cleaned dataset is saved as:
 #### Gold Layer - Business Aggregates
 
 In the Gold Layer, the cleaned Silver data is enriched and aggregated to produce business-ready metrics such as:
-    1. Monthly revenue
-    2. Category-wise sales
-    3. Location-wise sales
+    1. Year-Month revenue
+    2. Year wise category sales
+    3. Discont and Non Discount sales
 
 ### Tech Stack
     * Python
