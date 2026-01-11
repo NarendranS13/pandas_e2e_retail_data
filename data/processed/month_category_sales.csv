@@ -1,0 +1,297 @@
+Year,Month,Month Name,Category,Total Spent
+2022,1,January,Beverages,5610.0
+2022,1,January,Butchers,7926.0
+2022,1,January,Computers and electric accessories,6807.5
+2022,1,January,Electric household essentials,5733.0
+2022,1,January,Food,5042.5
+2022,1,January,Furniture,6984.0
+2022,1,January,Milk Products,6022.5
+2022,1,January,Patisserie,6399.5
+2022,2,February,Beverages,6142.0
+2022,2,February,Butchers,7742.5
+2022,2,February,Computers and electric accessories,3297.0
+2022,2,February,Electric household essentials,5540.0
+2022,2,February,Food,4532.5
+2022,2,February,Furniture,5847.0
+2022,2,February,Milk Products,3963.0
+2022,2,February,Patisserie,4515.5
+2022,3,March,Beverages,4493.0
+2022,3,March,Butchers,4081.0
+2022,3,March,Computers and electric accessories,4699.0
+2022,3,March,Electric household essentials,6296.5
+2022,3,March,Food,3877.0
+2022,3,March,Furniture,4447.5
+2022,3,March,Milk Products,5698.0
+2022,3,March,Patisserie,4974.0
+2022,4,April,Beverages,4096.0
+2022,4,April,Butchers,5215.5
+2022,4,April,Computers and electric accessories,4675.0
+2022,4,April,Electric household essentials,6003.5
+2022,4,April,Food,3104.0
+2022,4,April,Furniture,5484.5
+2022,4,April,Milk Products,4383.5
+2022,4,April,Patisserie,5688.0
+2022,5,May,Beverages,5463.5
+2022,5,May,Butchers,5876.0
+2022,5,May,Computers and electric accessories,4343.5
+2022,5,May,Electric household essentials,5412.5
+2022,5,May,Food,4302.0
+2022,5,May,Furniture,4835.0
+2022,5,May,Milk Products,4484.5
+2022,5,May,Patisserie,4035.5
+2022,6,June,Beverages,5088.5
+2022,6,June,Butchers,6012.5
+2022,6,June,Computers and electric accessories,5624.0
+2022,6,June,Electric household essentials,6405.0
+2022,6,June,Food,3045.5
+2022,6,June,Furniture,4803.0
+2022,6,June,Milk Products,3815.5
+2022,6,June,Patisserie,6052.0
+2022,7,July,Beverages,5228.0
+2022,7,July,Butchers,6129.0
+2022,7,July,Computers and electric accessories,4025.5
+2022,7,July,Electric household essentials,5772.0
+2022,7,July,Food,5677.0
+2022,7,July,Furniture,4829.0
+2022,7,July,Milk Products,5333.5
+2022,7,July,Patisserie,4104.5
+2022,8,August,Beverages,4265.5
+2022,8,August,Butchers,7220.0
+2022,8,August,Computers and electric accessories,3611.5
+2022,8,August,Electric household essentials,5246.0
+2022,8,August,Food,4319.0
+2022,8,August,Furniture,4544.5
+2022,8,August,Milk Products,3808.0
+2022,8,August,Patisserie,5163.5
+2022,9,September,Beverages,4806.0
+2022,9,September,Butchers,6844.0
+2022,9,September,Computers and electric accessories,4611.0
+2022,9,September,Electric household essentials,6218.5
+2022,9,September,Food,5619.5
+2022,9,September,Furniture,4990.0
+2022,9,September,Milk Products,5595.0
+2022,9,September,Patisserie,5603.0
+2022,10,October,Beverages,4279.0
+2022,10,October,Butchers,6400.5
+2022,10,October,Computers and electric accessories,3316.0
+2022,10,October,Electric household essentials,3926.5
+2022,10,October,Food,5369.5
+2022,10,October,Furniture,2959.0
+2022,10,October,Milk Products,4277.5
+2022,10,October,Patisserie,5052.5
+2022,11,November,Beverages,5530.0
+2022,11,November,Butchers,6271.5
+2022,11,November,Computers and electric accessories,4139.0
+2022,11,November,Electric household essentials,6328.5
+2022,11,November,Food,5974.5
+2022,11,November,Furniture,3948.0
+2022,11,November,Milk Products,4535.5
+2022,11,November,Patisserie,3262.0
+2022,12,December,Beverages,5331.0
+2022,12,December,Butchers,5610.5
+2022,12,December,Computers and electric accessories,4823.5
+2022,12,December,Electric household essentials,4271.5
+2022,12,December,Food,3872.5
+2022,12,December,Furniture,4709.0
+2022,12,December,Milk Products,3056.5
+2022,12,December,Patisserie,4575.0
+2023,1,January,Beverages,6360.0
+2023,1,January,Butchers,4359.0
+2023,1,January,Computers and electric accessories,6897.5
+2023,1,January,Electric household essentials,5090.5
+2023,1,January,Food,6652.0
+2023,1,January,Furniture,4531.5
+2023,1,January,Milk Products,6605.5
+2023,1,January,Patisserie,5493.5
+2023,2,February,Beverages,5058.5
+2023,2,February,Butchers,4640.0
+2023,2,February,Computers and electric accessories,4322.5
+2023,2,February,Electric household essentials,5364.5
+2023,2,February,Food,4876.0
+2023,2,February,Furniture,4359.5
+2023,2,February,Milk Products,4487.0
+2023,2,February,Patisserie,3412.0
+2023,3,March,Beverages,3879.0
+2023,3,March,Butchers,4953.0
+2023,3,March,Computers and electric accessories,4224.0
+2023,3,March,Electric household essentials,3877.0
+2023,3,March,Food,6355.5
+2023,3,March,Furniture,4199.0
+2023,3,March,Milk Products,3168.5
+2023,3,March,Patisserie,5322.5
+2023,4,April,Beverages,3644.0
+2023,4,April,Butchers,4816.0
+2023,4,April,Computers and electric accessories,5976.5
+2023,4,April,Electric household essentials,4779.0
+2023,4,April,Food,3948.5
+2023,4,April,Furniture,6016.0
+2023,4,April,Milk Products,4706.5
+2023,4,April,Patisserie,3116.5
+2023,5,May,Beverages,5123.5
+2023,5,May,Butchers,4470.0
+2023,5,May,Computers and electric accessories,3986.5
+2023,5,May,Electric household essentials,5459.5
+2023,5,May,Food,5081.5
+2023,5,May,Furniture,4978.0
+2023,5,May,Milk Products,4025.5
+2023,5,May,Patisserie,5438.5
+2023,6,June,Beverages,3191.5
+2023,6,June,Butchers,6819.5
+2023,6,June,Computers and electric accessories,5946.5
+2023,6,June,Electric household essentials,5347.0
+2023,6,June,Food,4617.0
+2023,6,June,Furniture,4811.0
+2023,6,June,Milk Products,4446.0
+2023,6,June,Patisserie,5361.5
+2023,7,July,Beverages,6004.5
+2023,7,July,Butchers,4172.5
+2023,7,July,Computers and electric accessories,5161.5
+2023,7,July,Electric household essentials,5507.5
+2023,7,July,Food,7364.0
+2023,7,July,Furniture,4677.5
+2023,7,July,Milk Products,5858.5
+2023,7,July,Patisserie,4588.0
+2023,8,August,Beverages,3334.0
+2023,8,August,Butchers,3130.0
+2023,8,August,Computers and electric accessories,5029.5
+2023,8,August,Electric household essentials,3692.5
+2023,8,August,Food,4666.5
+2023,8,August,Furniture,7122.5
+2023,8,August,Milk Products,5211.0
+2023,8,August,Patisserie,5052.5
+2023,9,September,Beverages,4156.0
+2023,9,September,Butchers,4827.5
+2023,9,September,Computers and electric accessories,4842.5
+2023,9,September,Electric household essentials,5794.0
+2023,9,September,Food,5174.0
+2023,9,September,Furniture,3649.5
+2023,9,September,Milk Products,5922.0
+2023,9,September,Patisserie,3580.0
+2023,10,October,Beverages,5458.5
+2023,10,October,Butchers,3843.0
+2023,10,October,Computers and electric accessories,3439.5
+2023,10,October,Electric household essentials,3492.0
+2023,10,October,Food,5636.0
+2023,10,October,Furniture,5160.5
+2023,10,October,Milk Products,5223.5
+2023,10,October,Patisserie,3838.5
+2023,11,November,Beverages,3863.5
+2023,11,November,Butchers,5125.5
+2023,11,November,Computers and electric accessories,4306.0
+2023,11,November,Electric household essentials,3714.0
+2023,11,November,Food,5195.0
+2023,11,November,Furniture,4459.0
+2023,11,November,Milk Products,4585.0
+2023,11,November,Patisserie,3652.0
+2023,12,December,Beverages,3510.5
+2023,12,December,Butchers,4549.5
+2023,12,December,Computers and electric accessories,5303.0
+2023,12,December,Electric household essentials,7425.5
+2023,12,December,Food,4514.5
+2023,12,December,Furniture,6217.0
+2023,12,December,Milk Products,5728.0
+2023,12,December,Patisserie,3798.0
+2024,1,January,Beverages,5589.5
+2024,1,January,Butchers,6790.5
+2024,1,January,Computers and electric accessories,5738.5
+2024,1,January,Electric household essentials,6656.5
+2024,1,January,Food,6390.5
+2024,1,January,Furniture,6304.5
+2024,1,January,Milk Products,3363.5
+2024,1,January,Patisserie,4051.5
+2024,2,February,Beverages,4030.0
+2024,2,February,Butchers,4805.5
+2024,2,February,Computers and electric accessories,4325.0
+2024,2,February,Electric household essentials,4929.0
+2024,2,February,Food,3956.0
+2024,2,February,Furniture,3951.0
+2024,2,February,Milk Products,4155.0
+2024,2,February,Patisserie,4902.5
+2024,3,March,Beverages,6000.0
+2024,3,March,Butchers,4054.0
+2024,3,March,Computers and electric accessories,4271.0
+2024,3,March,Electric household essentials,4427.0
+2024,3,March,Food,4672.5
+2024,3,March,Furniture,6871.5
+2024,3,March,Milk Products,5681.0
+2024,3,March,Patisserie,4864.5
+2024,4,April,Beverages,4750.0
+2024,4,April,Butchers,5776.5
+2024,4,April,Computers and electric accessories,6810.5
+2024,4,April,Electric household essentials,4968.5
+2024,4,April,Food,3831.5
+2024,4,April,Furniture,7606.5
+2024,4,April,Milk Products,3488.0
+2024,4,April,Patisserie,6049.0
+2024,5,May,Beverages,6243.0
+2024,5,May,Butchers,5562.5
+2024,5,May,Computers and electric accessories,3664.0
+2024,5,May,Electric household essentials,5619.5
+2024,5,May,Food,5956.5
+2024,5,May,Furniture,4833.0
+2024,5,May,Milk Products,4899.5
+2024,5,May,Patisserie,5476.0
+2024,6,June,Beverages,7277.0
+2024,6,June,Butchers,4975.5
+2024,6,June,Computers and electric accessories,6638.0
+2024,6,June,Electric household essentials,4773.5
+2024,6,June,Food,4730.0
+2024,6,June,Furniture,5428.0
+2024,6,June,Milk Products,3692.5
+2024,6,June,Patisserie,5068.5
+2024,7,July,Beverages,5341.0
+2024,7,July,Butchers,6995.5
+2024,7,July,Computers and electric accessories,5873.5
+2024,7,July,Electric household essentials,4841.0
+2024,7,July,Food,5364.0
+2024,7,July,Furniture,4588.5
+2024,7,July,Milk Products,3907.5
+2024,7,July,Patisserie,2985.0
+2024,8,August,Beverages,7426.0
+2024,8,August,Butchers,5620.0
+2024,8,August,Computers and electric accessories,4848.0
+2024,8,August,Electric household essentials,5711.5
+2024,8,August,Food,4906.0
+2024,8,August,Furniture,5736.5
+2024,8,August,Milk Products,2987.0
+2024,8,August,Patisserie,4224.0
+2024,9,September,Beverages,7182.5
+2024,9,September,Butchers,3943.0
+2024,9,September,Computers and electric accessories,5301.5
+2024,9,September,Electric household essentials,4785.0
+2024,9,September,Food,4563.0
+2024,9,September,Furniture,4822.5
+2024,9,September,Milk Products,4757.0
+2024,9,September,Patisserie,4669.0
+2024,10,October,Beverages,5703.0
+2024,10,October,Butchers,5965.5
+2024,10,October,Computers and electric accessories,3414.5
+2024,10,October,Electric household essentials,5045.0
+2024,10,October,Food,6484.0
+2024,10,October,Furniture,4585.0
+2024,10,October,Milk Products,4503.5
+2024,10,October,Patisserie,5699.0
+2024,11,November,Beverages,5343.5
+2024,11,November,Butchers,3681.5
+2024,11,November,Computers and electric accessories,5970.0
+2024,11,November,Electric household essentials,6014.0
+2024,11,November,Food,5550.0
+2024,11,November,Furniture,4915.5
+2024,11,November,Milk Products,5037.0
+2024,11,November,Patisserie,4856.0
+2024,12,December,Beverages,5721.5
+2024,12,December,Butchers,4372.0
+2024,12,December,Computers and electric accessories,6717.5
+2024,12,December,Electric household essentials,4990.0
+2024,12,December,Food,5333.0
+2024,12,December,Furniture,5884.5
+2024,12,December,Milk Products,7599.5
+2024,12,December,Patisserie,5674.5
+2025,1,January,Beverages,3455.5
+2025,1,January,Butchers,3849.5
+2025,1,January,Computers and electric accessories,3922.5
+2025,1,January,Electric household essentials,2984.5
+2025,1,January,Food,4092.0
+2025,1,January,Furniture,2438.5
+2025,1,January,Milk Products,1736.5
+2025,1,January,Patisserie,1732.5
